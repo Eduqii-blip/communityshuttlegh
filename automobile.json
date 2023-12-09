@@ -1,33 +1,33 @@
 [
   {
-    Image: "apt1.jpg",
-    Address: "2622 Tudu, GA",
-    Location: "Accra",
-    Price: "0/p",
-    AvailableAutos: "3 buses",
-    Seats: "4",
-    Distance: "1000miles",
-    Details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum est ultricies integer quis. Iaculis urna id volutpat lacus laoreet. Mauris vitae ultricies leo integer malesuada. Ac odio tempor orci dapibus ultrices in. Egestas diam in arcu cursus euismod. Dictum fusce ut"
+    "Image": "apt1.jpg",
+    "Address": "2622 Tudu, GA",
+    "Location": "Accra",
+    "Price": "0/p",
+    "AvailableAutos": "3 buses",
+    "Seats": "4",
+    "Distance": "1000miles",
+    "Details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum est ultricies integer quis. Iaculis urna id volutpat lacus laoreet. Mauris vitae ultricies leo integer malesuada. Ac odio tempor orci dapibus ultrices in. Egestas diam in arcu cursus euismod. Dictum fusce ut"
   },
   {
-    Image: "apt2.jpg",
-    Address: "2168 Shiashi, GA",
-    Location: "Accra",
-    Price: "0/p",
-    AvailableAutos: "3 buses",
-    Seats: "4",
-    Distance: "1000miles",
-    Details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum est ultricies integer quis. Iaculis urna id volutpat lacus laoreet. Mauris vitae ultricies leo integer malesuada. Ac odio tempor orci dapibus ultrices in. Egestas diam in arcu cursus euismod. Dictum fusce ut"
+    "Image": "apt2.jpg",
+    "Address": "2168 Shiashi, GA",
+    "Location": "Accra",
+    "Price": "0/p",
+    "AvailableAutos": "3 buses",
+    "Seats": "4",
+    "Distance": "1000miles",
+    "Details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum est ultricies integer quis. Iaculis urna id volutpat lacus laoreet. Mauris vitae ultricies leo integer malesuada. Ac odio tempor orci dapibus ultrices in. Egestas diam in arcu cursus euismod. Dictum fusce ut"
   },
   {
-    Image: "apt3.jpg",
-    Address: "LN Neoplan Lane, GA",
-    Location: "Accra",
-    Price: "0/p",
-    AvailableAutos: "3 buses",
-    Seats: "4",
-    Distance: "1000miles",
-    Details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum est ultricies integer quis. Iaculis urna id volutpat lacus laoreet. Mauris vitae ultricies leo integer malesuada. Ac odio tempor orci dapibus ultrices in. Egestas diam in arcu cursus euismod. Dictum fusce ut"
+    "Image": "apt3.jpg",
+    "Address": "LN Neoplan Lane, GA",
+    "Location": "Accra",
+    "Price": "0/p",
+    "AvailableAutos": "3 buses",
+    "Seats": "4",
+    "Distance": "1000miles",
+    "Details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum est ultricies integer quis. Iaculis urna id volutpat lacus laoreet. Mauris vitae ultricies leo integer malesuada. Ac odio tempor orci dapibus ultrices in. Egestas diam in arcu cursus euismod. Dictum fusce ut"
   }
   
 ]
