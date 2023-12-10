@@ -1,6 +1,6 @@
 [
   {
-    "Image": "apt1.jpg",
+    "Image": "https://eduqii-blip.github.io/communityshuttlegh/images/apt1.jpg",
     "Address": "2622 Tudu, GA",
     "Location": "Accra",
     "Price": "0/p",
@@ -10,7 +10,7 @@
     "Details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum est ultricies integer quis. Iaculis urna id volutpat lacus laoreet. Mauris vitae ultricies leo integer malesuada. Ac odio tempor orci dapibus ultrices in. Egestas diam in arcu cursus euismod. Dictum fusce ut"
   },
   {
-    "Image": "apt2.jpg",
+    "Image": "https://eduqii-blip.github.io/communityshuttlegh/images/apt2.jpg",
     "Address": "2168 Shiashi, GA",
     "Location": "Accra",
     "Price": "0/p",
@@ -20,7 +20,7 @@
     "Details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum est ultricies integer quis. Iaculis urna id volutpat lacus laoreet. Mauris vitae ultricies leo integer malesuada. Ac odio tempor orci dapibus ultrices in. Egestas diam in arcu cursus euismod. Dictum fusce ut"
   },
   {
-    "Image": "apt3.jpg",
+    "Image": "https://eduqii-blip.github.io/communityshuttlegh/images/apt3.jpg",
     "Address": "LN Neoplan Lane, GA",
     "Location": "Accra",
     "Price": "0/p",
